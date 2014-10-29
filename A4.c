@@ -25,7 +25,7 @@ int doDifferentEquations(int LHS[], int RHS[], int LHSsize){
     /* one size big */
     int newRHS[LHSsize+1];
     /* making the new LHS, size - 1 to have 1 less size */
-    int a,b;
+    int a=0,b=0;
     while( a < LHSsize -1){
         newLHS[a] = LHS[a];
         a++;
