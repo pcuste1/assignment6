@@ -2,7 +2,7 @@
   AUTHORS:                                                                      
      Neh Patel                                                                  
      Patrick Custer                                                             
-     Tommy Tran                                                                
+     Nghia Tran                                                                
 */
 
 #include <stdio.h>
