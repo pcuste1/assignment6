@@ -116,6 +116,7 @@ int LHS[argc-1];
     }
   }else{
     printf("Enter some arguments to run the program\n");
+    return 1;
   }
 
   int t = 0;
